@@ -1,0 +1,432 @@
+{
+    "code": 0,
+    "data": {
+        "product": {
+            "list": [
+                {
+                    "id": 3,
+                    "image": "http://img1.hwcareer.com/cms/userfiles/1/images/cms/link/2017/01/07(1).jpg",
+                    "title": "中国顶级名企直通车",
+                    "weight": 0,
+                    "href": "http://192.168.2.20:8060/html/activity/passcar.html",
+                    "description": "名企直通车测试数据"
+                },
+                {
+                    "id": 2,
+                    "image": "http://img1.hwcareer.com/cms/userfiles/1/images/cms/link/2017/01/05.jpg",
+                    "title": "名企快通车",
+                    "weight": 0,
+                    "href": "http://192.168.2.20:8060/html/activity/fastcar.html",
+                    "description": "测试数据"
+                },
+                {
+                    "id": 1,
+                    "image": "http://img1.hwcareer.com/cms/userfiles/1/images/cms/link/2017/01/03(1).jpg",
+                    "title": "名企实习生计划",
+                    "weight": 0,
+                    "href": "http://http://http://http://www.baidu.com",
+                    "description": ""
+                }
+            ],
+            "banner": ""
+        },
+        "jobs": {
+            "list": [
+                {
+                    "id": "8235",
+                    "company_name": "深圳国际预科学院",
+                    "address": "广东",
+                    "description": "应聘条件  \r\n1）本科及以上学历的在校生或毕业生以及广大教育工作者（专业不限 ），专业知识扎实，能进行中英双语授课或家教经历者优先；  \r\n\r\n\r\n\t4) 有中学各科竞赛及获奖经历者优先；\r\n\r\n\r\n\t5）有海外留学经历或交换生经历者优先。 \r\n\r\n\r\n\t职位描述\r\n\r\n\r\n\t- 熟悉美国升学准备程序和签证申请流程；\r\n\r\n\r\n\t- 协助顾问收集国外院校招生信息和留学考试信...",
+                    "name": "升学顾问助理",
+                    "update_date": 1484788961000,
+                    "image": "http://img.hwcareer.com/resume/1479285318910.jpeg",
+                    "href": "http://10.165.0.204:8070/postdetails?companyId=2543&postId=8235"
+                },
+                {
+                    "id": 4853,
+                    "address": "河北",
+                    "company_name": "5645643",
+                    "description": " \r\n\t遥枯西厢干在地栞雨辰 \r\n  \r\n \r\n\t枯干夺\r\n  \r\n \r\n\t硒枯干\r\n  \r\n \r\n\t \r\n  \r\n \r\n\t夺杯 \r\n  \r\n \r\n\t压下\r\n  \r\n \r\n\t压下\r\n  \r\n \r\n\t压下枯在顶替顶替\r\n  ",
+                    "name": "5645643招聘顶替模压地",
+                    "update_date": 1471260095000,
+                    "image": "http://img.hwcareer.com/resume/1471248634489.jpeg",
+                    "href": "http://10.165.0.204:8070/postdetails?companyId=2243&postId=4853"
+                },
+                {
+                    "id": 264,
+                    "address": "北京",
+                    "company_name": "DTZ戴德梁行",
+                    "description": " \n\t任职要求：\n  \n \n\t1、 房地产、法律、经济、金融、英文、管理等相关专业均可\n  \n \n\t2、 硕士、本科等在校学生\n  \n \n\t3、 为人诚实，对工作认真负责，有吃苦耐劳精神\n  \n \n\t4、 具备良好的沟通、协调能力\n  \n \n\t5、 熟悉基本办公软件，灵活运用WORD\\EXCEL\\PPT\n  ",
+                    "name": "DTZ戴德梁行招聘实习生",
+                    "update_date": 1443518233000,
+                    "image": "http://img.1haigui.com/logo/1442399825817.jpeg",
+                    "href": "http://10.165.0.204:8070/postdetails?companyId=4&postId=264"
+                },
+                {
+                    "id": 8131,
+                    "address": "北京",
+                    "company_name": "亚马逊中国",
+                    "description": " \r\n\tResponsibilities:\r\n  \r\n \r\n\t1. Be responsible for AR booking and monitor vendor return daily\r\nprocess.\r\n  \r\n \r\n\t2. Lead JP AR related projects\r\n  \r\n \r\n\t3. In charge of aging and negative balance account;\r\n  \r\n \r\n\t4. Reporting and analyzing data provided by different tools and\r\nsystem for internal finance analysis\r\n  \r\n \r\n\t5. Other works assigned by manager.\r\n  \r\n \r\n\tBasic Qualifications\r\n  \r\n \r\n\t1. Bachelor degree or above, majored in accounting or finance will\r\nbe preferred.\r\n  \r\n \r\n\t2. 4+ year-work experience of team lead\r\n  \r\n \r\n\t3.Ability to read, write and speak Japanese fluently\r\n  \r\n \r\n\t4. Microsoft office skill needed\r\n  \r\n \r\n\t5. ERP experience preferred.\r\n  \r\n \r\n\tPreferred Qualifications\r\n  \r\n \r\n\t1. teamwork, good communication skills, hard working and detail\r\noriented.\r\n  \r\n \r\n\t2. can work under pressure\r\n  \r\n \r\n\t3. excellent computer skills and attention to detail\r\n  \r\n \r\n\t4. Japan culture understanding/oversea study experience\r\n  ",
+                    "name": "亚马逊中国招聘AR Japan Lead",
+                    "update_date": 1477041745000,
+                    "image": "http://img.1haigui.com/logo/1457491034380.jpeg",
+                    "href": "http://10.165.0.204:8070/postdetails?companyId=289&postId=8131"
+                },
+                {
+                    "id": 8129,
+                    "address": "北京",
+                    "company_name": "亚马逊中国",
+                    "description": " \r\n\tJob Description\r\n  \r\n \r\n\t1. Be responsible for AR booking and monitor daily process.\r\n  \r\n \r\n\t2. Analysis vendor return discrepancy and disputes\r\n  \r\n \r\n\t3. In charge of aging and negative balance account;\r\n  \r\n \r\n\t4. Reporting and analyzing data provided by different tools and\r\nsystem for internal finance analysis\r\n  \r\n \r\n\t5. Other works assigned by manager.\r\n  \r\n \r\n\tBasic Qualifications\r\n  \r\n \r\n\t1. Bachelor degree in accounting or finance or above.\r\n  \r\n \r\n\t2. Ability to read, write and speak Japanese fluently\r\n  \r\n \r\n\t3. Microsoft office skill needed\r\n  \r\n \r\n\t4. ERP experience\r\n  \r\n \r\n\tPreferred Qualifications\r\n  \r\n \r\n\t1. Teamwork, good communication skills, hard working and detail\r\noriented.\r\n  \r\n \r\n\t2. Can work under pressure\r\n  \r\n \r\n\t3. Excellent computer skills and attention to detail\r\n  \r\n \r\n\t4. Japan culture understanding/oversea study experience\r\n  ",
+                    "name": "亚马逊中国招聘Sr. AR Analyst-Japan",
+                    "update_date": 1477041665000,
+                    "image": "http://img.1haigui.com/logo/1457491034380.jpeg",
+                    "href": "http://10.165.0.204:8070/postdetails?companyId=289&postId=8129"
+                },
+                {
+                    "id": 8127,
+                    "address": "北京",
+                    "company_name": "亚马逊中国",
+                    "description": " \r\n\tAmazonJoyo Co. Ltd Finance Operations department seeks a bright,\r\narticulated and detail-oriented Japanese speaking Accounts Payable Financial\r\nAnalyst to play the important role in Japan Accounts Payable Financial\r\nOperations Team (A/P) in Beijing, China. This position will work cross\r\nfunctionally with Worldwide Shared Services, Retail Vendor Management, Retail\r\nFinance, and Global Operations to support the team’s accounts payables\r\noperations. This position will focus on Retail Inventory Payables with a strong\r\nemphasis on paying vendors on time and all related activities in order to\r\nachieve this mission such as problem resolving and handling inquires and\r\nescalations. Furthermore, this position will also support process improvement,\r\ncontrollership policies and procedures.          \r\n                     \r\n     \r\n  \r\n \r\n\tAreas of Responsibilities includes but not limited to:  \r\n• Investigate invoicing discrepancy and fix\r\nproblems in order to issue payments on time \r\n• Respond to vendors’ and internal inquiries with\r\nfocus on high customer satisfaction \r\n• Manage any systematic and operational issue\r\noccurred during invoice processing \r\n• Analyze and report metrics to management \r\n• Support daily execution of various payments to\r\nvendors globally \r\n• Research the reason of failed payments and\r\nensure timely and accurate payment reissuance \r\n• Participate in Operational Excellence activities\r\nsuch as Kaizen/Green Belt \r\n \r\nBasic Qualifications: \r\n• Fluent in both written and spoken business\r\nJapanese (passed N1 or Level 1 of Japanese Language Proficiency Test) and\r\nEnglish (TOEIC over 700) \r\n• Intermediate to advanced proficiency in\r\nMicrosoft Excel \r\n• Strong interpersonal written and oral\r\ncommunication skills in a cross cultural setting with international counterparts \r\n• Internal and external customer focus and a work\r\nethic based on a strong desire to exceed expectations \r\n• Strong analytical skills including the ability\r\nto deep dive while also seeing and understand the big picture \r\n• Demonstrated ability to meet deadlines while\r\nsupporting multiple competing priorities \r\n \r\nPreferred Qualifications: \r\n• B.S. or B.A. in Finance / Accounting or related\r\nfield is preferred \r\n• 0-3 years of relevant experience in Finance,\r\nAccounts Payable, or a Process improvement role \r\n• Experience in creating/leading operational\r\nprocess \r\n• Experience in resolving complex problems\r\ncross-functionally \r\n• Experience in working closely with\r\nvendors/customers \r\n• Experience with Oracle Financials is desired \r\n• Track record of dealing with ambiguity\r\n  \r\n ",
+                    "name": "亚马逊中国招聘Financial Analyst, Japan Accounts Payable",
+                    "update_date": 1477041589000,
+                    "image": "http://img.1haigui.com/logo/1457491034380.jpeg",
+                    "href": "http://10.165.0.204:8070/postdetails?companyId=289&postId=8127"
+                },
+                {
+                    "id": 8125,
+                    "address": "广东",
+                    "company_name": "广东欧珀移动通讯有限公司",
+                    "description": "岗位职责：负责海外市场营销工作，管理海外销售渠道，为OPPO发展添砖加瓦！ \r\n岗位要求：只要你是年轻有活力，有意愿，有对市场和销售工作的热情与激情，就满足初步要求了。  \r\n既然是海外，对语言自然是有要求哒~我们希望你能：流畅的进行英语沟通，或者精通法语， 阿拉伯语也是我们菜！  ",
+                    "name": "广东欧珀移动通讯有限公司招聘海外渠道管理专员",
+                    "update_date": 1477038402000,
+                    "image": "http://img.hwcareer.com/resume/1473386435464.png",
+                    "href": "http://10.165.0.204:8070/postdetails?companyId=2425&postId=8125"
+                },
+                {
+                    "id": 8123,
+                    "address": "广东",
+                    "company_name": "广东欧珀移动通讯有限公司",
+                    "description": "岗位职责：1、日常算薪及薪酬发放；2、设计和优化薪酬架构，并组织调薪。 \r\n岗位要求：本科及以上学历，细致认真，逻辑性强，对数据比较敏感，具有较强的责任性和抗压性；英语听说读写能力优秀者优先。 ",
+                    "name": "广东欧珀移动通讯有限公司招聘薪酬专员",
+                    "update_date": 1477038344000,
+                    "image": "http://img.hwcareer.com/resume/1473386435464.png",
+                    "href": "http://10.165.0.204:8070/postdetails?companyId=2425&postId=8123"
+                },
+                {
+                    "id": 8121,
+                    "address": "北京",
+                    "company_name": "联邦快递",
+                    "description": " \r\n\tAccount Executive – Field Sales in China\r\n  \r\n \r\n\tBusiness job title: Account Executive – Field Sales\r\n(including Associate and Senior)\r\n  \r\n \r\n\tPurpose of Position:\r\n  \r\n \r\n\tTo develop new business as well as maintain and deepen\r\nexisting customer relationships through face-to-face sales call in order to\r\nachieve personal sales targets and market goals within the small to large-sized\r\ncustomer segment.\r\n  \r\n \r\n\tMinimum Requirements：\r\n  \r\n \r\n\tEducation: Bachelor’s degree or equivalent\r\n  \r\n \r\n\tExperience:No\r\nwork experience limited for Associate Account Executive – Field Sales;\r\n  \r\n \r\n\tTwo (2) years for Account Executive –\r\nField Sales and three (3) years for Senior, in commercial or industrial sales\r\n  \r\n \r\n\tProficiency in English & Simplified Chinese language\r\n  \r\n \r\n\tFamiliar\r\nwith Chinese culture and market environment\r\n  \r\n \r\n\tStrong presentation skills\r\n  \r\n \r\n\tAble\r\nto influence and negotiate with others using active listening and persuasion\r\nskills\r\n  \r\n \r\n\t    \r\n  \r\n \r\n\tAreas\r\nof Responsibility\r\n  \r\n \r\n\t1.New Business Development\r\n  \r\n \r\n\tIncumbent\r\nmust close new business with new and existing customers by carrying out the\r\nfollowing:\r\n  \r\n \r\n\tObtain\r\nleads for new business through channels such as counter referrals, drivers,\r\nInside Sales, “finder’s keepers”, chamber of commerce business lists, and the\r\nlocal newspaper\r\n  \r\n \r\n\tGather\r\ninformation about customers' business products and process, and their\r\ntransportation challenges through face-to-face contact\r\n  \r\n \r\n\tSeek\r\nand identify opportunities to grow the business with existing customers\r\n  \r\n \r\n\tIdentify\r\ncustomer’s needs and develop value propositions to meet those needs\r\n  \r\n \r\n\tCreate\r\na market based pricing structure\r\n  \r\n \r\n\tPrepare\r\na sales proposal to target the needs of customers\r\n  \r\n \r\n\tDeliver\r\nsales presentation to persuade potential customers to use FedEx products and/or\r\nservices\r\n  \r\n \r\n\t2.Account\r\nServicing\r\n  \r\n \r\n\tIncumbent\r\nmust support existing customers with effective customer education by carrying\r\nout the following:\r\n  \r\n \r\n\tCoordinate\r\nwith internal resources to teach customers how to use FedEx tools and services\r\n  \r\n \r\n\tAnswer\r\ncustomer questions about FedEx products or services during sales call\r\n  \r\n \r\n\tCreate\r\nand execute implementation plans with the customers\r\n  \r\n \r\n\tMonitor\r\nimplementation progress to ensure timelines are met\r\n  \r\n \r\n\tIdentify\r\nbarriers to successful implementation and recommend ways to remove or minimize\r\nthem\r\n  \r\n \r\n\tTroubleshoot\r\nand resolve customer’s problems\r\n  \r\n \r\n\tContact\r\ncustomers to find out how well the solutions are meeting their business needs\r\n  \r\n \r\n\tPresent\r\nreview findings to customers using the available system reporting tool\r\n  \r\n \r\n\tIn\r\naddition to the above, Senior Account Executive – Field Sales will also need\r\nto:\r\n  \r\n \r\n\tCoach\r\nand guide new team member on sales processes and standards\r\n  \r\n \r\n\tSupport\r\nsales trainers, as necessary\r\n  \r\n \r\n\tAssume\r\nlead role for projects as assigned by management\r\n  \r\n \r\n\tWork location: China Beijing, Shanghai, Shenzhen, Suzhou,\r\nKunshan, Nantong, Hangzhou, Ningbo, Chongqing, Zhengzhou\r\n  ",
+                    "name": "联邦快递招聘Account Executive (客户经理)【北京/上海/深圳/昆山/苏州/南通/杭州/宁波/重庆/郑州】",
+                    "update_date": 1477027593000,
+                    "image": "http://img.hwcareer.com/resume/1473387073177.jpeg",
+                    "href": "http://10.165.0.204:8070/postdetails?companyId=2431&postId=8121"
+                },
+                {
+                    "id": 8113,
+                    "address": "天津",
+                    "company_name": "新东方前途出国咨询有限公司",
+                    "description": "岗位职责： \r\n1.接待留学咨询学生并为学生提供专业全面的欧洲和亚洲院校信息和资讯；  \r\n2.根据学生的条件设计合理有效的留学方案； \r\n3.协助和指导学生准备和完成留学申请和留学签证的资料和文件。 \r\n   \r\n任职要求： \r\n1.优秀的人际交往能力、沟通能力； \r\n2.有业内工作经验者优先； \r\n \r\n\t3.有海外留学/相关工作经历者优先。\r\n  \r\n \r\n\t薪酬结构：浮动底薪+提成+佣金+餐补\r\n  ",
+                    "name": "新东方前途出国咨询有限公司招聘咨询顾问-新东方前途天津分公司",
+                    "update_date": 1476774089000,
+                    "image": "http://img.hwcareer.com/resume/1475040403640.gif",
+                    "href": "http://10.165.0.204:8070/postdetails?companyId=1555&postId=8113"
+                },
+                {
+                    "id": 8115,
+                    "address": "天津",
+                    "company_name": "新东方前途出国咨询有限公司",
+                    "description": "岗位职责： \r\n1.完成留学文书创作； \r\n2.负责翻译各种申请文件和经济文件； \r\n3.搜集留学申请中所需要的信息； \r\n4.协助学生进行自我定位，根据相关信息写作申请系列文书； \r\n5.根据学生特征和申请院校要求，创作相应的申请文书； \r\n6.日常性学生客户的沟通工作； \r\n  \r\n  \r\n任职要求： \r\n1.对留学文书、求职文件写作有深入的研究与经验； \r\n2.优秀的学习能力、沟通能力、亲和力； \r\n3.优秀的英语写作能力，能够独立完成交付的留学申请系列文书； \r\n4.本科及以上学历，大学英语6级或专业英语8级以上,雅思、GRE或托福高分者优先。 \r\n \r\n  \r\n \r\n\t福利待遇：双休、五险一金、带薪年假、节日福利、员工体检、团建旅游，一经录用待遇从优，公司提供系统培训及良好的发展空间。\r\n  \r\n \r\n\t \r\n  \r\n \r\n\t薪酬结构：浮动底薪+提成+佣金+餐补\r\n  ",
+                    "name": "新东方前途出国咨询有限公司招聘后期文案-新东方前途天津分公司",
+                    "update_date": 1476774052000,
+                    "image": "http://img.hwcareer.com/resume/1475040403640.gif",
+                    "href": "http://10.165.0.204:8070/postdetails?companyId=1555&postId=8115"
+                },
+                {
+                    "id": 8111,
+                    "address": "山东",
+                    "company_name": "新东方前途出国咨询有限公司",
+                    "description": "负责为客户提供留学规划，完成签约任务 \r\n• 接待留学咨询客户并为客户提供专业全面的院校信息和资讯；  \r\n• 根据客户的条件设计合理有效的留学规划； \r\n任职要求： \r\n• 英语口语交流顺畅。良好的沟通能力，严谨的逻辑能力，优秀的学习能力； \r\n• 有销售岗位从业经验，具备较强的销售意识优先； \r\n• 澳洲、新西兰、亚洲、欧洲、美国、英国、加拿大海外高校留学背景者，海外本科及以上学历优先； \r\n• 有咨询行业销售经验者优先。 ",
+                    "name": "新东方前途出国咨询有限公司招聘高端留学顾问-新东方前途山东分公司",
+                    "update_date": 1476770462000,
+                    "image": "http://img.hwcareer.com/resume/1475040403640.gif",
+                    "href": "http://10.165.0.204:8070/postdetails?companyId=1555&postId=8111"
+                },
+                {
+                    "id": 8109,
+                    "address": "山东",
+                    "company_name": "新东方前途出国咨询有限公司",
+                    "description": "负责为客户提供海外名校的申请与文案撰写 \r\n• 帮助学生挖掘自身优势，帮助学生进行自我定位，并辅助其选择学校和专业； \r\n• 根据学生所提供的信息写作申请需要的一系列文书； \r\n• 协助学生完善申请材料。 \r\n任职要求： \r\n• 优秀的英语听说能力和中英文写作能力； \r\n• 文笔流畅且灵活多变，逻辑清晰，善于创造性写作； \r\n• 三年以上国外留学/工作经历者优先； \r\n• 海外本科以上学历商科、工科、文学专业优先； ",
+                    "name": "新东方前途出国咨询有限公司招聘高端留学文案-新东方前途山东分公司",
+                    "update_date": 1476770353000,
+                    "image": "http://img.hwcareer.com/resume/1475040403640.gif",
+                    "href": "http://10.165.0.204:8070/postdetails?companyId=1555&postId=8109"
+                },
+                {
+                    "id": 8107,
+                    "address": "山东",
+                    "company_name": "新东方前途出国咨询有限公司",
+                    "description": "负责数学课程和自然科学课程的研发和授课 \r\n• 协助教研主管研发课程，包括AP, Alevel 和IB等国际课程的数学和自然科学科目。 \r\n• 教授数学课程或物理化学课程，包括AP, Alevel, IB等主流国际课程。（一对一和小班） \r\n \r\n任职要求： \r\n• 理工科专业毕业，英语能力佳。 \r\n• 在大型培训机构，国际学校， 或海外学校有数学或自然科学课程的授课经验。 \r\n• 有海外学习或从业背景者优先 ",
+                    "name": "新东方前途出国咨询有限公司招聘数学和科学导师-新东方前途山东分公司",
+                    "update_date": 1476770083000,
+                    "image": "http://img.hwcareer.com/resume/1475040403640.gif",
+                    "href": "http://10.165.0.204:8070/postdetails?companyId=1555&postId=8107"
+                }
+            ],
+            "banner": ""
+        },
+        "test": {
+            "more": "compass.html",
+            "test": {
+                "id": 102,
+                "image": "http://img1.hwcareer.com/cms/userfiles/1/images/cms/link/2017/01/4-15012G52133(1).jpg",
+                "title": "职业匹配自测",
+                "weight": 0,
+                "href": "compass.html#mcc",
+                "description": ""
+            },
+            "pie": {
+                "id": 101,
+                "image": "http://img1.hwcareer.com/cms/userfiles/1/images/cms/link/2017/02/zuoshang.jpg",
+                "title": "职业分布图",
+                "weight": 0,
+                "href": "/zx/account/exam/quick",
+                "description": ""
+            },
+            "banner": ""
+        },
+        "link": [
+            {
+                "id": 81,
+                "image": "",
+                "title": "111",
+                "weight": 0,
+                "href": "http://",
+                "description": ""
+            }
+        ],
+        "carousel": [
+            {
+                "id": 13,
+                "image": "http://img1.hwcareer.com/cms/userfiles/1/images/cms/link/2017/01/banner1(4).jpg",
+                "title": "广告2",
+                "weight": 2,
+                "href": "http://www.baidu.com",
+                "description": "aaaa"
+            },
+            {
+                "id": 80,
+                "image": "http://img1.hwcareer.com/cms/userfiles/1/images/cms/link/2017/01/banner3(1).jpg",
+                "title": "123",
+                "weight": 0,
+                "href": "http://",
+                "description": ""
+            },
+            {
+                "id": 79,
+                "image": "http://img1.hwcareer.com/cms/userfiles/1/images/cms/link/2017/01/banner2(3).jpg",
+                "title": "111",
+                "weight": 0,
+                "href": "http://",
+                "description": ""
+            }
+        ],
+        "research": {
+            "dynamic": [
+                {
+                    "id": 50,
+                    "content": "海威时代获得“2015年度最受信赖职业教育品牌”",
+                    "href": "http://www.hwcareer.com/news01"
+                },
+                {
+                    "id": 49,
+                    "content": "新东方2015年中国留学白皮书全国首发",
+                    "href": "http://liuxue.xdf.cn/special/event/2015_white_book/"
+                },
+                {
+                    "id": 48,
+                    "content": "《2016中国海归就业调查报告》正式发布",
+                    "href": "http://www.hwcareer.com/zt/report"
+                },
+                {
+                    "id": 46,
+                    "content": "Q&A | 职业规划，究竟应该如何去做？",
+                    "href": "http://www.hwcareer.com/news14"
+                },
+                {
+                    "id": 51,
+                    "content": "国际人才职业发展研究院成立发布会",
+                    "href": "http://www.hwcareer.com/news28"
+                }
+            ],
+            "list": [
+                {
+                    "id": 6,
+                    "image": "http://img1.hwcareer.com/cms/userfiles/1/images/cms/link/2017/01/008.jpg",
+                    "title": "出国留学走势",
+                    "weight": 3,
+                    "href": "",
+                    "description": ""
+                },
+                {
+                    "id": 8,
+                    "image": "http://img1.hwcareer.com/cms/userfiles/1/images/cms/link/2017/01/2.jpg",
+                    "title": "研究动态",
+                    "weight": 1,
+                    "href": "http://http://http://www.hwcareer.com",
+                    "description": "研究院展示测试数据，海威时代"
+                },
+                {
+                    "id": 7,
+                    "image": "http://img1.hwcareer.com/cms/userfiles/1/images/cms/link/2017/01/009.jpg",
+                    "title": "权威发布",
+                    "weight": 0,
+                    "href": "http://www.hwcareer.com",
+                    "description": "测试数据"
+                }
+            ],
+            "banner": ""
+        },
+        "video": {
+            "list": [
+                {
+                    "id": 100,
+                    "title": "【传媒行业03】前人民日报副主编谈记者和编辑的区别",
+                    "weight": 0,
+                    "extra": "李良东",
+                    "description": "extra:李良东;\r\nlabel:标签12,标签13,标签14",
+                    "image": "http://static1.1haigui.com/hwcareer/wap_weixin/images/consult/career/liliangdong.jpg",
+                    "label": "标签12,标签13,标签14",
+                    "href": "/videoInfo.html?id=157"
+                },
+                {
+                    "id": 99,
+                    "title": "【金融行业02】券商中研究员如何撰写研究报告？",
+                    "weight": 0,
+                    "extra": "任莹",
+                    "description": "extra:任莹;\r\nlabel:标签12,标签13,标签14",
+                    "image": "http://static1.1haigui.com/hwcareer/wap_weixin/images/consult/career/renying.jpg",
+                    "label": "标签12,标签13,标签14",
+                    "href": "/videoInfo.html?id=155"
+                },
+                {
+                    "id": 98,
+                    "title": "【海外就业02】耶鲁MBA谈国籍不同会限制职场发展吗？",
+                    "weight": 0,
+                    "extra": "乐笑",
+                    "description": "extra:乐笑;\r\nlabel:标签15,标签16,标签17",
+                    "image": "http://static1.1haigui.com/hwcareer/wap_weixin/images/consult/career/lexiao.jpg",
+                    "label": "标签15,标签16,标签17",
+                    "href": "/videoInfo.html?id=154"
+                },
+                {
+                    "id": 97,
+                    "title": "【传媒行业02】前人民日报副主编谈海归在媒体行业有什么优势",
+                    "weight": 0,
+                    "extra": "李良东",
+                    "description": "extra:李良东;\r\nlabel:标签12,标签13,标签14",
+                    "image": "http://static1.1haigui.com/hwcareer/wap_weixin/images/consult/career/liliangdong.jpg",
+                    "label": "标签12,标签13,标签14",
+                    "href": "/videoInfo.html?id=153"
+                },
+                {
+                    "id": 96,
+                    "title": "【就业形式01】从猎头角度看近几年行业人才流动趋势",
+                    "weight": 0,
+                    "extra": "夏百卉",
+                    "description": "extra:夏百卉;\r\nlabel:标签9,标签10,标签11",
+                    "image": "http://static1.1haigui.com/hwcareer/wap_weixin/images/consult/career/xiabaihui.jpg",
+                    "label": "标签9,标签10,标签11",
+                    "href": "/videoInfo.html?id=152"
+                },
+                {
+                    "id": 95,
+                    "title": "【金融行业01】卖方分析师的工作内容是什么？",
+                    "weight": 0,
+                    "extra": "任莹",
+                    "description": "extra:任莹;\r\nlabel:标签6,标签7,标签8",
+                    "image": "http://static1.1haigui.com/hwcareer/wap_weixin/images/consult/career/renying.jpg",
+                    "label": "标签6,标签7,标签8",
+                    "href": "/videoInfo.html?id=151"
+                },
+                {
+                    "id": 94,
+                    "title": "【海外就业01】耶鲁MBA谈留学时读什么专业利于未来职业发展？",
+                    "weight": 0,
+                    "extra": "乐笑",
+                    "description": "extra:乐笑;\r\nlabel:标签3,标签4,标签5",
+                    "image": "http://static1.1haigui.com/hwcareer/wap_weixin/images/consult/career/lexiao.jpg",
+                    "label": "标签3,标签4,标签5",
+                    "href": "/videoInfo.html?id=150"
+                },
+                {
+                    "id": 93,
+                    "title": "【传媒行业01】前人民日报副主编谈初入传媒行业适合做什么工作",
+                    "weight": 0,
+                    "extra": "李良东",
+                    "description": "extra:李良东;\r\nlabel:标签1,标签2,标签3",
+                    "image": "http://static1.1haigui.com/hwcareer/wap_weixin/images/consult/career/liliangdong.jpg",
+                    "label": "标签1,标签2,标签3",
+                    "href": "/videoInfo.html?id=149"
+                }
+            ],
+            "banner": "",
+            "more": "/html/eliteInterview.html"
+        },
+        "activity": {
+            "list": [
+                {
+                    "id": 25,
+                    "image": "/userfiles/1/images/cms/link/2017/01/QQ%3F%3F20161226153925%20-%20%3F%3F.png",
+                    "title": "活动7",
+                    "weight": 0,
+                    "href": "http://www.hwcareer.com/zt/offer",
+                    "description": "7777"
+                },
+                {
+                    "id": 24,
+                    "image": "http://img1.hwcareer.com/cms/userfiles/1/images/cms/link/2017/01/zhongjian.jpg",
+                    "title": "中间图",
+                    "weight": 0,
+                    "href": "http://http://www.hwcareer.com/zt/offer",
+                    "description": "6666"
+                },
+                {
+                    "id": 23,
+                    "image": "http://img1.hwcareer.com/cms/userfiles/1/images/cms/link/2017/01/zuoxia.jpg",
+                    "title": "2016深圳招聘会",
+                    "weight": 0,
+                    "href": "http://http://http://www.hwcareer.com/zt/offer",
+                    "description": "时间 2016年12月17日 8:00-17:30 ggggggg"
+                },
+                {
+                    "id": 22,
+                    "image": "http://img1.hwcareer.com/cms/userfiles/1/images/cms/link/2017/01/youxia.jpg",
+                    "title": "海归就业调查",
+                    "weight": 0,
+                    "href": "http://http://www.hwcareer.com/zt/offer",
+                    "description": "描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述"
+                },
+                {
+                    "id": 11,
+                    "image": "http://img1.hwcareer.com/cms/userfiles/1/images/cms/link/2017/01/youshang.jpg",
+                    "title": "海归大教堂2",
+                    "weight": 0,
+                    "href": "http://http://www.hwcareer.com/zt/offer",
+                    "description": "海归大教堂2海归大教堂2海归大教堂2海归大教堂2海归大教堂2海归大教堂2海归大教堂2海归大教堂2海归大教堂2海归大教堂2海归大教堂2海归大教堂2海归大教堂2海归大教堂2海归大教堂2海归大教堂2海归大教堂2"
+                },
+                {
+                    "id": 10,
+                    "image": "http://img1.hwcareer.com/cms/userfiles/1/images/cms/link/2017/01/zuoshang.jpg",
+                    "title": "海归大教堂",
+                    "weight": 0,
+                    "href": "http://http://http://www.hwcareer.com/zt/offer",
+                    "description": "直播时间：12月25日 16:00 - 18:00"
+                }
+            ],
+            "banner": ""
+        },
+        "banner": []
+    },
+    "msg": null
+}
